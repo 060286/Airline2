@@ -12,3 +12,11 @@
 
 5. dotnet new console -n "FormulaAirline.TicketProcessing"
 6. dotnet sln FormulaAirline.sln add FormulaAirline.TicketProcessing/FormulaAirline.TicketProcessing.csproj
+
+# Docker
+
+7. docker-compose up => trying to download rabbitmq
+
+# RabbitMq
+
+8. UserName/Password: Guess/Guess.
